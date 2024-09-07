@@ -1,0 +1,10 @@
+"fastapi[standard]"
+sentry_sdk
+sqlmodel
+PyJWT
+passlib
+pydantic-settings
+psycopg
+psycopg[binary]
+emails
+bcrypt
